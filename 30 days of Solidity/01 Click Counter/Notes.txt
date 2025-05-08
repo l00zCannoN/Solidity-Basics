@@ -1,0 +1,21 @@
+// SPDX-License-Identifier: MIT
+// * Legal License to not be liable must in all contracts
+
+pragma solidity ^0.8.0
+// *tells compiler to view it as solidity 0.8.0 or above
+
+// Variable Declaration
+uint256 public counter;
+
+// Public Variables by default have a getter to get the value
+
+// Contract Declaration
+contract contractName {
+
+}
+
+// function Declaration
+function functionName() public {
+
+}
+
